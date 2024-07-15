@@ -1,0 +1,72 @@
+[
+    {
+        "customerId": 1,
+        "customerName": "Rajalakshmi",
+        "transactionId": 101,        
+        "transactionDate": "2024.05.14",
+        "transactionAmount": 120
+    },
+    { 
+        "customerId": 1,
+        "customerName": "Rajalakshmi",
+        "transactionId": 102,
+        "transactionDate": "2024.06.01", 
+        "transactionAmount": 650
+    },
+    { 
+        "customerId": 1,
+        "customerName": "Rajalakshmi",
+        "transactionId": 103, 
+        "transactionDate": "2024.07.10", 
+        "transactionAmount": 50
+    },
+    { 
+        "customerId": 1,
+        "customerName": "Rajalakshmi",
+        "transactionId": 104, 
+        "transactionDate": "2024.07.10", 
+        "transactionAmount": 150
+    },
+    {  
+        "customerId": 2,
+        "customerName": "Lakshmi",
+        "transactionId": 1001,
+        "transactionDate": "2024.05.14", 
+        "transactionAmount": 430
+    },
+    { 
+        "customerId": 2,
+        "customerName": "Lakshmi",
+        "transactionId": 1002, 
+        "transactionDate": "2024.06.01",
+        "transactionAmount": 20
+    },
+    { 
+        "customerId": 2,
+        "customerName": "Lakshmi",
+        "transactionId": 1003, 
+        "transactionDate": "2024.07.10", 
+        "transactionAmount": 175
+    },
+    { 
+        "customerId": 3,
+        "customerName": "Customer 1",
+        "transactionId": 10002,
+        "transactionDate": "2024.06.01", 
+        "transactionAmount": 60
+    },
+    { 
+        "customerId": 3,
+        "customerName": "Customer 1",
+        "transactionId": 10300, 
+        "transactionDate": "2024.07.10", 
+        "transactionAmount": 42
+    },
+    { 
+        "customerId": 3,
+        "customerName": "Customer 1",
+        "transactionId": 10401, 
+        "transactionDate": "2024.07.10", 
+        "transactionAmount": 900
+    }
+]

@@ -1,0 +1,4 @@
+.customer-reward-table {
+    display: flex;
+    justify-content: space-around;
+}
